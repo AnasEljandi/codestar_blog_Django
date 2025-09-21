@@ -1,0 +1,9 @@
+core.microsift*
+core.mongo*
+envy.py
+_pycache_/
+8.py[cod]
+node_modules/
+.github/
+cloudinary_python.txt
+blog/fixtures/
